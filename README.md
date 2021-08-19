@@ -1,0 +1,2 @@
+# Bash-call
+Selamat datang
